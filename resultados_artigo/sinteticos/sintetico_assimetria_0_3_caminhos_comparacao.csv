@@ -1,0 +1,51 @@
+Distribuição,Caminho,Criticidade Monte Carlo (%),PERT tradicional (%),Diferença absoluta (p.p.),Distância TV dos caminhos (%),Líder coincide com PERT
+Beta,A -> E -> F,16.51,0.0,16.51,63.50500000000001,True
+Beta,A -> E -> G,36.5,100.0,63.5,63.50500000000001,True
+Beta,A -> E -> H,4.34,0.0,4.34,63.50500000000001,True
+Beta,B,0.0,0.0,0.0,63.50500000000001,True
+Beta,C -> D -> F,6.76,0.0,6.76,63.50500000000001,True
+Beta,C -> D -> G,14.59,0.0,14.59,63.50500000000001,True
+Beta,C -> D -> H,1.78,0.0,1.78,63.50500000000001,True
+Beta,C -> E -> F,5.7,0.0,5.7,63.50500000000001,True
+Beta,C -> E -> G,12.26,0.0,12.26,63.50500000000001,True
+Beta,C -> E -> H,1.57,0.0,1.57,63.50500000000001,True
+Triangular,A -> E -> F,16.78,0.0,16.78,63.92,True
+Triangular,A -> E -> G,36.08,100.0,63.92,63.92,True
+Triangular,A -> E -> H,4.57,0.0,4.57,63.92,True
+Triangular,B,0.0,0.0,0.0,63.92,True
+Triangular,C -> D -> F,6.63,0.0,6.63,63.92,True
+Triangular,C -> D -> G,13.8,0.0,13.8,63.92,True
+Triangular,C -> D -> H,1.68,0.0,1.68,63.92,True
+Triangular,C -> E -> F,6.11,0.0,6.11,63.92,True
+Triangular,C -> E -> G,12.71,0.0,12.71,63.92,True
+Triangular,C -> E -> H,1.64,0.0,1.64,63.92,True
+Lognormal,A -> E -> F,15.43,0.0,15.43,52.725,True
+Lognormal,A -> E -> G,47.28,100.0,52.72,52.725,True
+Lognormal,A -> E -> H,2.7,0.0,2.7,52.725,True
+Lognormal,B,0.01,0.0,0.01,52.725,True
+Lognormal,C -> D -> F,4.17,0.0,4.17,52.725,True
+Lognormal,C -> D -> G,12.73,0.0,12.73,52.725,True
+Lognormal,C -> D -> H,0.7,0.0,0.7,52.725,True
+Lognormal,C -> E -> F,4.1,0.0,4.1,52.725,True
+Lognormal,C -> E -> G,12.2,0.0,12.2,52.725,True
+Lognormal,C -> E -> H,0.69,0.0,0.69,52.725,True
+Weibull,A -> E -> F,16.54,0.0,16.54,65.355,True
+Weibull,A -> E -> G,34.65,100.0,65.35,65.355,True
+Weibull,A -> E -> H,4.94,0.0,4.94,65.355,True
+Weibull,B,0.0,0.0,0.0,65.355,True
+Weibull,C -> D -> F,7.14,0.0,7.14,65.355,True
+Weibull,C -> D -> G,14.35,0.0,14.35,65.355,True
+Weibull,C -> D -> H,2.01,0.0,2.01,65.355,True
+Weibull,C -> E -> F,6.18,0.0,6.18,65.355,True
+Weibull,C -> E -> G,12.37,0.0,12.37,65.355,True
+Weibull,C -> E -> H,1.83,0.0,1.83,65.355,True
+Normal,A -> E -> F,16.26,0.0,16.26,62.05,True
+Normal,A -> E -> G,37.95,100.0,62.05,62.05,True
+Normal,A -> E -> H,3.52,0.0,3.52,62.05,True
+Normal,B,0.0,0.0,0.0,62.05,True
+Normal,C -> D -> F,6.44,0.0,6.44,62.05,True
+Normal,C -> D -> G,15.5,0.0,15.5,62.05,True
+Normal,C -> D -> H,1.35,0.0,1.35,62.05,True
+Normal,C -> E -> F,5.46,0.0,5.46,62.05,True
+Normal,C -> E -> G,12.32,0.0,12.32,62.05,True
+Normal,C -> E -> H,1.2,0.0,1.2,62.05,True

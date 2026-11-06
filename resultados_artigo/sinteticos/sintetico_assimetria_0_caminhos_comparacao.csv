@@ -1,0 +1,51 @@
+Distribuição,Caminho,Criticidade Monte Carlo (%),PERT tradicional (%),Diferença absoluta (p.p.),Distância TV dos caminhos (%),Líder coincide com PERT
+Beta,A -> E -> F,16.41,0.0,16.41,58.525,True
+Beta,A -> E -> G,41.48,100.0,58.52,58.525,True
+Beta,A -> E -> H,3.59,0.0,3.59,58.525,True
+Beta,B,0.0,0.0,0.0,58.525,True
+Beta,C -> D -> F,5.14,0.0,5.14,58.525,True
+Beta,C -> D -> G,12.48,0.0,12.48,58.525,True
+Beta,C -> D -> H,1.06,0.0,1.06,58.525,True
+Beta,C -> E -> F,5.58,0.0,5.58,58.525,True
+Beta,C -> E -> G,13.1,0.0,13.1,58.525,True
+Beta,C -> E -> H,1.17,0.0,1.17,58.525,True
+Triangular,A -> E -> F,16.83,0.0,16.83,60.73499999999999,True
+Triangular,A -> E -> G,39.27,100.0,60.73,60.73499999999999,True
+Triangular,A -> E -> H,3.87,0.0,3.87,60.73499999999999,True
+Triangular,B,0.0,0.0,0.0,60.73499999999999,True
+Triangular,C -> D -> F,5.61,0.0,5.61,60.73499999999999,True
+Triangular,C -> D -> G,12.67,0.0,12.67,60.73499999999999,True
+Triangular,C -> D -> H,1.22,0.0,1.22,60.73499999999999,True
+Triangular,C -> E -> F,5.91,0.0,5.91,60.73499999999999,True
+Triangular,C -> E -> G,13.25,0.0,13.25,60.73499999999999,True
+Triangular,C -> E -> H,1.38,0.0,1.38,60.73499999999999,True
+Lognormal,A -> E -> F,13.52,0.0,13.52,38.68,True
+Lognormal,A -> E -> G,61.32,100.0,38.68,38.68,True
+Lognormal,A -> E -> H,1.18,0.0,1.18,38.68,True
+Lognormal,B,0.0,0.0,0.0,38.68,True
+Lognormal,C -> D -> F,1.61,0.0,1.61,38.68,True
+Lognormal,C -> D -> G,7.35,0.0,7.35,38.68,True
+Lognormal,C -> D -> H,0.16,0.0,0.16,38.68,True
+Lognormal,C -> E -> F,2.72,0.0,2.72,38.68,True
+Lognormal,C -> E -> G,11.92,0.0,11.92,38.68,True
+Lognormal,C -> E -> H,0.22,0.0,0.22,38.68,True
+Weibull,A -> E -> F,16.83,0.0,16.83,58.915000000000006,True
+Weibull,A -> E -> G,41.08,100.0,58.92,58.915000000000006,True
+Weibull,A -> E -> H,3.65,0.0,3.65,58.915000000000006,True
+Weibull,B,0.0,0.0,0.0,58.915000000000006,True
+Weibull,C -> D -> F,5.09,0.0,5.09,58.915000000000006,True
+Weibull,C -> D -> G,12.08,0.0,12.08,58.915000000000006,True
+Weibull,C -> D -> H,1.09,0.0,1.09,58.915000000000006,True
+Weibull,C -> E -> F,5.65,0.0,5.65,58.915000000000006,True
+Weibull,C -> E -> G,13.28,0.0,13.28,58.915000000000006,True
+Weibull,C -> E -> H,1.24,0.0,1.24,58.915000000000006,True
+Normal,A -> E -> F,16.18,0.0,16.18,53.6,True
+Normal,A -> E -> G,46.4,100.0,53.6,53.6,True
+Normal,A -> E -> H,2.54,0.0,2.54,53.6,True
+Normal,B,0.0,0.0,0.0,53.6,True
+Normal,C -> D -> F,3.91,0.0,3.91,53.6,True
+Normal,C -> D -> G,11.67,0.0,11.67,53.6,True
+Normal,C -> D -> H,0.68,0.0,0.68,53.6,True
+Normal,C -> E -> F,4.78,0.0,4.78,53.6,True
+Normal,C -> E -> G,13.12,0.0,13.12,53.6,True
+Normal,C -> E -> H,0.72,0.0,0.72,53.6,True

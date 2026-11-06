@@ -1,0 +1,16 @@
+Distribuição,Caminho,Criticidade Monte Carlo (%),PERT tradicional (%),Diferença absoluta (p.p.),Distância TV dos caminhos (%),Líder coincide com PERT
+Beta,A -> B -> C -> F -> H,100.0,100.0,0.0,0.0,True
+Beta,D -> E -> F -> H,0.0,0.0,0.0,0.0,True
+Beta,G -> H,0.0,0.0,0.0,0.0,True
+Triangular,A -> B -> C -> F -> H,99.88,100.0,0.12000000000000455,0.12000000000000227,True
+Triangular,D -> E -> F -> H,0.12,0.0,0.12,0.12000000000000227,True
+Triangular,G -> H,0.0,0.0,0.0,0.12000000000000227,True
+Lognormal,A -> B -> C -> F -> H,100.0,100.0,0.0,0.0,True
+Lognormal,D -> E -> F -> H,0.0,0.0,0.0,0.0,True
+Lognormal,G -> H,0.0,0.0,0.0,0.0,True
+Weibull,A -> B -> C -> F -> H,100.0,100.0,0.0,0.0,True
+Weibull,D -> E -> F -> H,0.0,0.0,0.0,0.0,True
+Weibull,G -> H,0.0,0.0,0.0,0.0,True
+Normal,A -> B -> C -> F -> H,100.0,100.0,0.0,0.0,True
+Normal,D -> E -> F -> H,0.0,0.0,0.0,0.0,True
+Normal,G -> H,0.0,0.0,0.0,0.0,True

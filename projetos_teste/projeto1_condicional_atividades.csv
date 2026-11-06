@@ -1,0 +1,8 @@
+Atividade,Descricao,O,M,P,Predecessoras
+A,,4,5,7,
+B,,1,7,13,A
+D,,5,8,11,
+E,,6,7,8,D
+C,,9,11,14,B;D
+G,,6,15,24,C
+F,,6,9,12,C;E

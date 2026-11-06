@@ -1,0 +1,26 @@
+Distribuição,Caminho,Criticidade Monte Carlo (%),PERT tradicional (%),Diferença absoluta (p.p.),Distância TV dos caminhos (%),Líder coincide com PERT
+Beta,A -> B -> C -> F,17.12,0.0,17.12,22.629999999999995,True
+Beta,A -> B -> C -> G,77.37,100.0,22.629999999999995,22.629999999999995,True
+Beta,D -> C -> F,0.08,0.0,0.08,22.629999999999995,True
+Beta,D -> C -> G,5.43,0.0,5.43,22.629999999999995,True
+Beta,D -> E -> F,0.0,0.0,0.0,22.629999999999995,True
+Triangular,A -> B -> C -> F,19.45,0.0,19.45,25.88,True
+Triangular,A -> B -> C -> G,74.12,100.0,25.879999999999995,25.88,True
+Triangular,D -> C -> F,0.18,0.0,0.18,25.88,True
+Triangular,D -> C -> G,6.25,0.0,6.25,25.88,True
+Triangular,D -> E -> F,0.0,0.0,0.0,25.88,True
+Lognormal,A -> B -> C -> F,8.62,0.0,8.62,8.829999999999998,True
+Lognormal,A -> B -> C -> G,91.17,100.0,8.829999999999998,8.829999999999998,True
+Lognormal,D -> C -> F,0.0,0.0,0.0,8.829999999999998,True
+Lognormal,D -> C -> G,0.21,0.0,0.21,8.829999999999998,True
+Lognormal,D -> E -> F,0.0,0.0,0.0,8.829999999999998,True
+Weibull,A -> B -> C -> F,17.91,0.0,17.91,23.12,True
+Weibull,A -> B -> C -> G,76.88,100.0,23.120000000000005,23.12,True
+Weibull,D -> C -> F,0.12,0.0,0.12,23.12,True
+Weibull,D -> C -> G,5.09,0.0,5.09,23.12,True
+Weibull,D -> E -> F,0.0,0.0,0.0,23.12,True
+Normal,A -> B -> C -> F,13.42,0.0,13.42,17.525,True
+Normal,A -> B -> C -> G,82.48,100.0,17.519999999999996,17.525,True
+Normal,D -> C -> F,0.04,0.0,0.04,17.525,True
+Normal,D -> C -> G,4.07,0.0,4.07,17.525,True
+Normal,D -> E -> F,0.0,0.0,0.0,17.525,True

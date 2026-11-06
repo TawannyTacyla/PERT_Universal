@@ -1,0 +1,11 @@
+Distribuição 1,Distribuição 2,KS (D),p-valor,p-ajustado (Holm),Significativo
+Beta,Triangular,0.0305,0.0,0.0,True
+Beta,Lognormal,0.2935,0.0,0.0,True
+Beta,Weibull,0.1354,0.0,0.0,True
+Beta,Normal,0.029,0.0,0.0,True
+Triangular,Lognormal,0.3051,0.0,0.0,True
+Triangular,Weibull,0.1388,0.0,0.0,True
+Triangular,Normal,0.0576,0.0,0.0,True
+Lognormal,Weibull,0.1676,0.0,0.0,True
+Lognormal,Normal,0.2864,0.0,0.0,True
+Weibull,Normal,0.1572,0.0,0.0,True
